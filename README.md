@@ -1,4 +1,4 @@
-# ProjetosArduino
+# Projetos Arduino
 
 **Dedicado a pequenos projetos e quem sabe algo mais**
 
